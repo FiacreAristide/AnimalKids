@@ -1,0 +1,8 @@
+tigre,Le roi de la jungle,lion
+redbone,Le plus gros animal terrestre,elephant
+bird,Un oiseau coloré,perroquet
+cerf,Un puissant rapace,aigle
+tigre,Un reptile sans pattes,serpent
+cerf,Un reptile à carapace,tortue
+tigre,Un batracien sauteux,grenouille
+redbone,Un amphibien coloré,salamandre
